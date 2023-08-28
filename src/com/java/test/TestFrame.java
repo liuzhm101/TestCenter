@@ -33,6 +33,8 @@ public class TestFrame extends JFrame {
 		scrollBar.setBounds(368, 150, 42, 190);
 		getContentPane().add(scrollBar);
 		
+		System.out.println("Git Project");
+		
 	}
 
 	/**
