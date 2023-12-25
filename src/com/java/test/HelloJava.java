@@ -10,6 +10,7 @@ public class HelloJava {
 
 		System.out.println("Test GitHub");
 		
+		System.out.println("new");
 		
 	}
 
